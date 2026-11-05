@@ -12,6 +12,16 @@ This project focuses on analyzing retail transaction data to uncover sales trend
 
 The project follows a complete data analytics workflow, starting from data cleaning and exploratory analysis to SQL-based analysis, Machine Learning implementation, and interactive dashboard development.
 
+Dataset
+
+The project uses the Online Retail II dataset containing retail transaction records.
+
+The raw dataset is not included in this repository due to file size limitations.
+
+Dataset Source: "Online Retail II Dataset – UCI Machine Learning Repository" (https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+
+Users can download the dataset from the original source and run the project notebooks.
+
 Business Objectives
 
 - Analyze overall retail sales performance.
